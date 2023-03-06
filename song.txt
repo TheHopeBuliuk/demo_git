@@ -2,3 +2,5 @@ Hello.
 This is Richard.
 How are you doing today?
 I am good thank you 
+How can I help you?
+I am checking about your load
